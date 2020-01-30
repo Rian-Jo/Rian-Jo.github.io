@@ -4,5 +4,5 @@ title: System
 slug: system
 category: devlog
 menu: false
-order: 2
+order: 6
 ---
