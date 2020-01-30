@@ -28,7 +28,7 @@ author:
   email:             allusivejune@gmail.com
 
 # Fallback image and color
-image:               /assets/img/nap.jpg
+image:               /assets/img/sidebar_bg.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
@@ -36,6 +36,7 @@ font_heading:        "'Lato', 'Sans-serif'"
 
 # The text font. Expects a string that is a valid CSS font-family value.
 font:                "'Lato', 'Sans-serif'"
+
 
 # The string encoding what fonts to fetch from Google Fonts.
 # See: https://qwtel.com/hydejack/docs/configuration/
@@ -52,7 +53,7 @@ google_analytics:    UA-155192743-1
 disqus_shortname:    stuDIY
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2017. by rian'
+copyright:           '&copy; 2020. by stuDIY'
 
 # Format of the permalinks
 permalink:           pretty
@@ -60,6 +61,7 @@ permalink:           pretty
 # Pagination configuration (used by the `blog` layout)
 paginate:            8
 paginate_path:       '/page-:num/'
+
 
 # If you are upgrading form a v5 verison of Hydejack, uncomment the two lines below,
 # so that the location of the feed XML stays the same.
@@ -98,7 +100,7 @@ collections:
 #  Advanced configuration
 # -----------------------------------------------------------------------------
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
