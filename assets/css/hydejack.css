@@ -12,7 +12,8 @@
 .markdown-body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  color: #333;
+  color: #cebdbd;
+  background-color: #2d3538;
   line-height: 1.6;
   padding-left: 3%;
   padding-top: 0%;
@@ -27,6 +28,8 @@
   display:block;
   width:98%;
   height:300px;
+  color: #cebdbd;
+  background-color: #2d3538;
 }
 
 }
@@ -63,7 +66,7 @@
 }
 
 .markdown-body a {
-  background: #FFF9C4;
+  background: #2d3538;
 }
 
 .markdown-body code,
@@ -111,7 +114,8 @@
 }
 
 .markdown-body pre>code {
-  color: #333;
+  color: #dbdbdb;
+  background-color: #222222;
   padding: 0;
   margin: 0;
   font-size: 100%;
@@ -131,7 +135,7 @@
   overflow: auto;
   font-size: 85%;
   line-height: 1.45;
-  background-color: #f7f7f7;
+  background-color: #222222;
   border-radius: 3px;
 }
 
@@ -168,7 +172,7 @@
   line-height: 10px;
   color: #555;
   vertical-align: middle;
-  background-color: #fcfcfc;
+  background-color: #222222;
   border: solid 1px #ccc;
   border-bottom-color: #bbb;
   border-radius: 3px;
@@ -182,7 +186,7 @@
   line-height: 10px;
   color: #555;
   vertical-align: middle;
-  background-color: #fcfcfc;
+  background-color: #222222;
   border: solid 1px #ccc;
   border-bottom-color: #bbb;
   border-radius: 3px;
