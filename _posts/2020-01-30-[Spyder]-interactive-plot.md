@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Spyder] - console plot을 interactive plot으로 만들기"
+title:  "[Spyder] console plot을 interactive plot으로 만들기"
 subtitle:   "how to configure the interactive plot"
 categories: devlog
 tags: python spyder devlog
