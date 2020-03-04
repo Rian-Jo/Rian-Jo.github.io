@@ -87,7 +87,7 @@ Fig.savefig("./figures/png/data.png", bbox_inches='tight')
 
 위의 코드를 이용하여 그래프를 그리면 다음과 같은 결과를 얻을 수 있습니다.
 
-![](/assets/img/docs/2020-03/2020-03-02-example.PNG)
+![](/assets/img/docs/2020-03/2020-03-02-example.png)
 
 
 
