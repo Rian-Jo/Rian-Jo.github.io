@@ -3,14 +3,14 @@ layout: post
 title:  "[Python] 데이터 시각화하기 - 평행선긋기, 화살표, 구간 음영 만들기"
 subtitle:   "data visualization - horisontal line, range shadowing"
 categories: devlog
-tags: python spyder devlog
+tags: python devlog
 ---
 
 plot 툴 중 하나인 *matplotlib.pyplot* 을 사용 합니다. 
 
 [plot figures][plot-figures] 에 이어서, figure 안에 여러가지를 넣어 꾸미기를 해봅니다. 
 
-* 평행선 horisontal line 
+* 평행선 horizontal line 
 먼저 그래프에 평행선을 넣으려면 [hline example][hline-example] 에서처럼 *matplotlib.pylab*을 import 한 뒤에 *axhline* 함수를 이용하면 됩니다.
 
 * 텍스트 text
@@ -64,7 +64,7 @@ plt.plot(time[start_time:end_time], data[start_time:end_time,0:3], '--', linewid
 plt.plot(time[start_time:end_time], data[start_time:end_time,3:6], '-', linewidth=_linewidth)
 
 #####################################################################
-# plot the horisontal line
+# plot the horizontal line
 #####################################################################
 pylab.axhline(y=559.17, color='g', linestyle=':', linewidth=1)
 

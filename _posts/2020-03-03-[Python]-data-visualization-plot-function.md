@@ -3,7 +3,7 @@ layout: post
 title:  "[Python] 데이터 시각화하기 - 그래프 그리는 함수 만들기"
 subtitle:   "data visualization - creating custom graph funtion"
 categories: devlog
-tags: python spyder devlog
+tags: python devlog
 ---
 
 
