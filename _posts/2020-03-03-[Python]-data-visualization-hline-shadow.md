@@ -95,6 +95,6 @@ Fig.savefig("./figures/png/data.png", bbox_inches='tight')
 
 
 
-[plot-figures]: https://rian-jo.github.io/devlog/2020-03-03-[Python]-data-visualization-plot-function/
+[plot-figures]: https://rian-jo.github.io/devlog/2020-03-02-[Python]-data-visualization-plot-function/
 
 [hline-example]: https://financedata.github.io/posts/matplotlib_hline_and_vline.html
