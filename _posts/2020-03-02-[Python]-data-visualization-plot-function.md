@@ -17,7 +17,7 @@ plot 툴 중 하나인 *matplotlib.pyplot* 을 사용 합니다.
 
 *graph.py*에서는 그래프 그려주는 여러개의 파일들을 한군데에 모아 관리하고, 실제 그래프는 *graph_data.py*에서 그려줍니다.
 
-그래프를 여러개 그리는데 세팅을 매 그래프마다 그려놨다가 수정하려면 매우 귀찮기 때문에, 관련 옵션들을 한번에 변경할 수 있게 옵션을 *napedtuple*을 이용해 *graph* 함수의 인자로 넘겨주어 각각의 그래프에 적용될 수 있게 되어 있습니다.
+그래프를 여러개 그리는데 세팅을 매 그래프마다 그려놨다가 수정하려면 매우 귀찮기 때문에, 관련 옵션들을 한번에 변경할 수 있게 옵션을 *napedtuple*을 이용해 *graph* 함수의 인자로 넘겨주어 각각의 그래프에 적용될 수 있게 되어 있습니다. 관련 다양한 예제들은 [namedtuple], [naemdtuple2] 을 참조하세요.
 
 매트랩에서 figure 그릴때마다 글자가 안이뻐서 늘 불만이었는데, figure 안에 latex 글자와 수식을 넣을 수 있어 너무 좋습니다. 
 
@@ -136,3 +136,6 @@ def Graph(graph_options):
 
 ~~~
 
+[namedtuple]: https://thrillfighter.tistory.com/454
+
+[namedtuple2]: https://pythonkim.tistory.com/89
